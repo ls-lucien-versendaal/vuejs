@@ -1,1 +1,1 @@
-# vuejs tutorial by net ninja
+# vuejs tutorial by net ninja updated
